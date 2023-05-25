@@ -14,4 +14,4 @@ analysis of the water system in callantsoog with aim to improve it
 |Quick waterbalance|Anne||
 |Role of nature areas|Christine||
 |Temporal scale to consider|Dwiva||
-||||
+|Look into politics of spatial planning/utility driven|||
