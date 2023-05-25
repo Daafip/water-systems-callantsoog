@@ -6,7 +6,7 @@ analysis of the water system in callantsoog with aim to improve it
 | --- | --- | --- |
 |Concept of new areas (GIS)| David||
 |Add statistics on changes proposed (GIS)|David||
-|Add landuse to flow chart -> trend in waterlevel|Thomas||
+|Add landuse to flow chart -> trend in waterlevel|Thomas|started|
 |Stakeholder analysis & financial picture|Christine||
 |New surface water storage areas|Thomas||
 |Current & planned hydraulic structures|Dwiva||
