@@ -1,17 +1,11 @@
 # water-systems-callantsoog
 analysis of the water system in callantsoog with aim to improve it
 
+Reading guide of project:
 
-| What | Who | Done?  | 
-| --- | --- | --- |
-|Concept of new areas (GIS)| David||
-|Add statistics on changes proposed (GIS)|David||
-|Add landuse to flow chart -> trend in waterlevel|Thomas|started|
-|Stakeholder analysis & financial picture|Christine||
-|New surface water storage areas|Thomas||
-|Current & planned hydraulic structures|Dwiva||
-|Climate -> KNMI|Anne||
-|Quick waterbalance|Anne||
-|Role of nature areas|Christine||
-|Temporal scale to consider|Dwiva||
-|Look into politics of spatial planning/utility driven|||
+- [`Stakeholder analysis folder`](https://github.com/Daafip/water-systems-callantsoog/tree/main/Stakeholders) contains all the information on the different stake holders including farmers, nature and financial considerations.
+- [`SOBEK folder`](https://github.com/Daafip/water-systems-callantsoog/tree/main/sobek) contains the results maps & key files ot  reproduce the modeling steps taken
+- [`Python folder`](https://github.com/Daafip/water-systems-callantsoog/tree/main/Python) contains the groundwater modeling & the redesign of the culvert. 
+- [`GIS files`](https://github.com/Daafip/water-systems-callantsoog/tree/main/GIS%20files) contains our project with the GIS analysis undertaken including geographic files, the folder `maps_output` contains the results which area likely most intresting.
+
+- [`Presentation`](https://github.com/Daafip/water-systems-callantsoog/tree/main/Presentation) contains our midterm & final presentation files
